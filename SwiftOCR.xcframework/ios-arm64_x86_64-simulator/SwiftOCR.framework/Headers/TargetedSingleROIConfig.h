@@ -6,6 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "SwiftOCRLanguages.h"
 
 NS_ASSUME_NONNULL_BEGIN
 typedef  NS_ENUM(NSInteger, TargetedSingleROIPosition)
@@ -56,6 +57,8 @@ typedef NS_ENUM(NSInteger, ROIConfigType)  {
 @property(nonatomic,assign)  CGFloat aspectRatio;
 
 @property(nonatomic,retain)NSDictionary* detectedOCRFormat;
+@property(nonatomic,assign) SwiftOCRLanguages lang;
+
 /**
 * @brief     Allows to configure Width as per the percentage provided and height as per aspect ratio
  *     @param widthInPercentage
