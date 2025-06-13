@@ -48,8 +48,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property(assign) int tagReference;
 
-@property(assign) NSString * ocrTagName;
-
 @end
 
 NS_ASSUME_NONNULL_END
