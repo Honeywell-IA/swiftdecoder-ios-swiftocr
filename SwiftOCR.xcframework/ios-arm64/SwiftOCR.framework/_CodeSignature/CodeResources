@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		9WsdFQWlP/gwlFuEmKWuzIi2iF0=
+		</data>
 		<key>FBLPromises_Privacy.bundle/Info.plist</key>
 		<data>
 		mw38HNF43VmQoH5O/FRHijzAUj4=
@@ -54,19 +58,35 @@
 		</data>
 		<key>Headers/APIVersion.h</key>
 		<data>
-		50GzT36+J/EYviOmase3W995SAM=
+		0dbLMnOR8Yq2DCqpi/qtBLiVQvo=
 		</data>
 		<key>Headers/ARFrameForAdvPlugin.h</key>
 		<data>
 		XDLD2GtmPqTM/Ml93rORuwOJCXQ=
 		</data>
+		<key>Headers/BarcodeOCRTemplateManager.h</key>
+		<data>
+		2FX25sbUiCSDM3SQMm9UPb1CyvE=
+		</data>
 		<key>Headers/LoadedSymbol.h</key>
 		<data>
 		BUeUJVC1WS2ZwU6UkEhFsalda7A=
 		</data>
+		<key>Headers/MultipleROICountTemplateOCRHolder.h</key>
+		<data>
+		YNFe3v/S6wnooP+pn6w5lmXI0mk=
+		</data>
+		<key>Headers/MultipleROIOCRManager.h</key>
+		<data>
+		4WXVDmdIv0qUscDbP246I998CV4=
+		</data>
+		<key>Headers/MultipleROIOCRTemplate.h</key>
+		<data>
+		rNaMLTSRgoBW3Bj8rig1+kVc2Vo=
+		</data>
 		<key>Headers/SwiftOCR.h</key>
 		<data>
-		+iy2mFpsilhrb5VgFZIEznNKhrA=
+		zCLTMSy35zUnlDHT33/HmXT0i/w=
 		</data>
 		<key>Headers/SwiftOCRARPlugin.h</key>
 		<data>
@@ -78,11 +98,15 @@
 		</data>
 		<key>Headers/SwiftOCRDecoder.h</key>
 		<data>
-		ZNRptpynFxTHAjSp21Oaz9dN1mA=
+		40MWfBNa2brY88ReGIYcb3U+JsQ=
+		</data>
+		<key>Headers/SwiftOCRLanguages.h</key>
+		<data>
+		vch5TlN0/YpCc4b65BXgmlM+yEw=
 		</data>
 		<key>Headers/SwiftOCRResult.h</key>
 		<data>
-		Hf7ACtIcmGBPzapk+jH2xanXbSI=
+		47AIDBuyXJwqLeTc1QRBpgkxS9A=
 		</data>
 		<key>Headers/SwiftOCRResultListener.h</key>
 		<data>
@@ -110,7 +134,7 @@
 		</data>
 		<key>Headers/TargetedSingleROIConfig.h</key>
 		<data>
-		RJM7cvnH01//QLnMelA+bXeGXy0=
+		+6fjx8T85sYgSX8/lt/vXgdVFhI=
 		</data>
 		<key>Headers/TextRecog.h</key>
 		<data>
@@ -267,7 +291,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7iv2YE2KAKCpvR870ZQ+iGM0YzDLvLySEP6v0/8P1H4=
+			ZWlIarvp4yF0B92wMeBKPaNCygyBwpoxQa0pzp/EKeE=
 			</data>
 		</dict>
 		<key>Headers/ARFrameForAdvPlugin.h</key>
@@ -277,6 +301,13 @@
 			n+JnTPTLtH+NgrLAGAw5aooisEopdsF2ZLvYZOdBSss=
 			</data>
 		</dict>
+		<key>Headers/BarcodeOCRTemplateManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DcAOcfuQXn2gzJjfyPWDBF8/ylD5hO9GvfV+es3FMak=
+			</data>
+		</dict>
 		<key>Headers/LoadedSymbol.h</key>
 		<dict>
 			<key>hash2</key>
@@ -284,11 +315,32 @@
 			Vg8oQa8cj5k9+lZZFXgpNEfiz1upBgbEtrOsbeEgGJ0=
 			</data>
 		</dict>
+		<key>Headers/MultipleROICountTemplateOCRHolder.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2OsNrIX14oQBekReNx9T0G1FJhIHHanT8xCiATymfDo=
+			</data>
+		</dict>
+		<key>Headers/MultipleROIOCRManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8suBQZbytJ5yYGpnLT6GxUMjt1VdqB8xgFWqcEACAKk=
+			</data>
+		</dict>
+		<key>Headers/MultipleROIOCRTemplate.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JMm5OKDIjsBhyw291ijKMNa+IloxwyObfkCSR7Oy1IM=
+			</data>
+		</dict>
 		<key>Headers/SwiftOCR.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h2owepNq0pknPaSBoGxAJ6nXies3c1YFsdeu2gVroHo=
+			yCFAlHoNS9BuVulfvKrB4iV7m+ToMvDj1fQ70JELumQ=
 			</data>
 		</dict>
 		<key>Headers/SwiftOCRARPlugin.h</key>
@@ -309,14 +361,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z4ZBYNjv/ee483J1lYUVjknNy1z6jbzQfycParoplE0=
+			ERkW9MWSRAFWQN9rf8khtt55N68akn8hk5l4IanVlR8=
+			</data>
+		</dict>
+		<key>Headers/SwiftOCRLanguages.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			heJRGi6sex3VlP+POYUGt9GpKbIdGkvEuBrzgG8aqGc=
 			</data>
 		</dict>
 		<key>Headers/SwiftOCRResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gNvwNR8oq+h0/IYve6fH7elid0DOceOHr5q6DqLp61c=
+			6uwIteWaskeABjwz3efhtqwYPiDLF9Bz27jVBSMfZpw=
 			</data>
 		</dict>
 		<key>Headers/SwiftOCRResultListener.h</key>
@@ -365,7 +424,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UZcR6/Qz9XK8VnHnHVrEtv+OdgC/lgxPsHwTN5ZoLMQ=
+			KRl01WKkpH4FpwQWFAUO0uT+zulbqR8Rcq0PM9Jw1aM=
 			</data>
 		</dict>
 		<key>Headers/TextRecog.h</key>

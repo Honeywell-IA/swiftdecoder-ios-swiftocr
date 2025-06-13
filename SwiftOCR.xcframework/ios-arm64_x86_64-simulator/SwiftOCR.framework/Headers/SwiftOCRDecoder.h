@@ -10,11 +10,10 @@
 #import <SwiftDecoder/PluginManager.h>
 #import <SwiftDecoder/SwiftPlugin.h>
 #import "SwiftOCRStatus.h"
-
 #import "SwiftOCRResultListener.h"
 #import "TargetedSingleROIConfig.h"
-
-
+#import "MultipleROIOCRManager.h"
+#import "SwiftOCRLanguages.h"
 
 /**
  *  @brief This enumeration represents type OCR detection.
@@ -38,6 +37,9 @@ typedef enum{
  */
 
 @interface SwiftOCRDecoder : NSObject
+@property (retain, nonatomic) MultipleROIOCRManager * multiROIOCRManager;
+
++ (SwiftOCRDecoder*) getInstanceUsing:(SwiftOCRScanArea) swiftOCRScanArea Delegate:(id<SwiftOCRResultListener>)delegate;
 
 /**
  * @brief Gets the singleton instance of TemplateOCRDecoder.
@@ -56,9 +58,6 @@ typedef enum{
  *    templateID(OCRTemplateResult_TEMPLATE_ALREADY_ADDED = -2, //When barcode is already added OCRTemplateResult_ERROR = -1, //When barcode is not read or could not decrypt OCRTemplateResult_MAXLIMIT_EXCEEDED = 0, //When template ID value exceeds more than 40)
  */
 -(int)addOCRTemplateWithImageData:(NSData*)imageData;
-
-
--(int)addOCRTemplateWithBarcodeData:(NSString*)decodeResult;
 
 /**
  * @brief This method registers a SwiftMobile plug-in to be used during a barcode scan operation.  SwiftMobile plug-ins are designed to work on a particular type of data and can render their own User Interface.  There are several plug-ins available within SwiftMobile, however, 3rd party plug-ins can be used as well by extending the SwiftMobile. See the SwiftMobile plug-in documentation for further help.
@@ -84,7 +83,7 @@ typedef enum{
  * @return
  *  TemplateOCRStatus
  */
-- (SwiftOCRStatus) enableSwiftOCRFeature:(BOOL) status;
+- (SwiftOCRStatus) enableSwiftOCRTemplateFeature:(BOOL) status;
 
 /**
  * @brief Removes already added template ID using @addOCRTemplateID
@@ -170,7 +169,8 @@ typedef enum{
  * @param  config - Config for Single ROI
  *
  */
--(void)setTargetedSingleROIConfig:(TargetedSingleROIConfig*)config;
+//-(void)setTargetedSingleROIConfig:(TargetedSingleROIConfig*)config;
+-(void)setTargetedSingleROIConfigWithFrame:(TargetedSingleROIConfig*)config withFrame:(CGRect)windowFrame;
 
 /**
  * @brief gets the current configuration for Single Region of interest
@@ -203,5 +203,66 @@ typedef enum{
  */
 -(SwiftOCRScanArea)getSwiftOCRScanArea;
 
-@end
+/**
+ * @brief Add mult iOCR template with barcode data
+ *
+ * @param decodeResult - QR code scanned decode result
+ *
+ * @return templateID
+ *
+ */
+-(int)addOCRTemplateWithBarcodeData:(NSString*)decodeResult;
 
+/**
+ * @brief enable fine tuning
+ *
+ * @param enable - boolean value
+ *
+ */
+-(void)enableFineTuning:(BOOL) enable;
+
+/**
+ * @brief Set camera frame to count multi ROI OCR manager and CountMultipleTemplateOCRHolder instance
+ *
+ * @param cameraFrame - camera frame
+ *
+ * @param cmtOCRHolder - CountMultipleTemplateOCRHolder instance
+ *
+ */
+-(void)createMultipleROIManagerWith:(CGRect) cameraFrame CMTOCRHolder:(MultipleROICountTemplateOCRHolder *) cmtOCRHolder;
+
+/**
+ * @brief Add and remove single and multiple ROI plugins
+ */
+
+-(int)setMultipleOCRActiveTemplateID:(int)templateID;
+
+/**
+* @brief Before scanning template for Barcode and Multiple OCR, setting for which type we are going to add template
+*
+* @param isBarcode : isBarcode is YES if adding template for Barcode and isBarcode is NO if adding template for Multiple ROI
+*/
+-(void)setScanTypeForTemplate:(BOOL)isBarcode;
+
+/**
+* @brief If wiftOCRScanArea == TARGETED_MULTIPLE_ROI then remove singleROIOCRTemplate and add multipleROIOCRTemplate plugin and if swiftOCRScanArea ==
+* TARGETED_SINGLE_ROI then remove multipleROIOCRTemplate and add singleROIOCRTemplate plugin
+*/
+-(void) addAndRemovePlugin;
+
+/**
+ * @brief set the default language for scanning OCR
+ *
+ * @param lang
+ */
+-(void)setSwiftOCRLanguage:(SwiftOCRLanguages) lang;
+
+/**
+ * \brief This method used to get the supported langauges for OCR detection.
+ *
+ * @return The list of languages from the language packs loaded. [its an Array of strings(LATIN,JAPANESE,CHINESE,KOREAN) just Map the strings with same name for the enums in SwiftOCRLanguages]
+ */
+
+-(NSArray*)getSupportedSwiftOCRLangauages;
+
+@end
