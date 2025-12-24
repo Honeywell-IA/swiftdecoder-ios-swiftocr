@@ -6,15 +6,11 @@
 	<dict>
 		<key>Headers/APIVersion.h</key>
 		<data>
-		0dbLMnOR8Yq2DCqpi/qtBLiVQvo=
+		UXZhQTF5A45hGN1CgA1mzshQORg=
 		</data>
 		<key>Headers/ARFrameForAdvPlugin.h</key>
 		<data>
 		XDLD2GtmPqTM/Ml93rORuwOJCXQ=
-		</data>
-		<key>Headers/BarcodeOCRTemplateManager.h</key>
-		<data>
-		2FX25sbUiCSDM3SQMm9UPb1CyvE=
 		</data>
 		<key>Headers/LoadedSymbol.h</key>
 		<data>
@@ -30,11 +26,11 @@
 		</data>
 		<key>Headers/MultipleROIOCRTemplate.h</key>
 		<data>
-		rNaMLTSRgoBW3Bj8rig1+kVc2Vo=
+		Xyvo6jCytjl8Kb09yfoXfSDKg2E=
 		</data>
 		<key>Headers/SwiftOCR.h</key>
 		<data>
-		zCLTMSy35zUnlDHT33/HmXT0i/w=
+		nFjKBwVX2WlIYuShiCw3U1AnKEw=
 		</data>
 		<key>Headers/SwiftOCRARPlugin.h</key>
 		<data>
@@ -46,11 +42,11 @@
 		</data>
 		<key>Headers/SwiftOCRDecoder.h</key>
 		<data>
-		40MWfBNa2brY88ReGIYcb3U+JsQ=
+		ofUxceYwRQoNMbm+0y6Vrfioo8Q=
 		</data>
 		<key>Headers/SwiftOCRLanguages.h</key>
 		<data>
-		vch5TlN0/YpCc4b65BXgmlM+yEw=
+		88KmTBWqnkVBNt1A0JoOy0PyQ2U=
 		</data>
 		<key>Headers/SwiftOCRResult.h</key>
 		<data>
@@ -90,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sPRaLqd0gNjPO5qzfI4CuUckeJw=
+		mLV2kX7SQ+DWQcqCHHDJe9uC88g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -111,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZWlIarvp4yF0B92wMeBKPaNCygyBwpoxQa0pzp/EKeE=
+			Z3V7RADoqSHj+QHnBBhi9jQTXETzf79kWhSypw1VrlI=
 			</data>
 		</dict>
 		<key>Headers/ARFrameForAdvPlugin.h</key>
@@ -119,13 +115,6 @@
 			<key>hash2</key>
 			<data>
 			n+JnTPTLtH+NgrLAGAw5aooisEopdsF2ZLvYZOdBSss=
-			</data>
-		</dict>
-		<key>Headers/BarcodeOCRTemplateManager.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DcAOcfuQXn2gzJjfyPWDBF8/ylD5hO9GvfV+es3FMak=
 			</data>
 		</dict>
 		<key>Headers/LoadedSymbol.h</key>
@@ -153,14 +142,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JMm5OKDIjsBhyw291ijKMNa+IloxwyObfkCSR7Oy1IM=
+			0hwU2OINu8MaHwMecLtXwH2CLED5m/h42Ac4lTdLF80=
 			</data>
 		</dict>
 		<key>Headers/SwiftOCR.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yCFAlHoNS9BuVulfvKrB4iV7m+ToMvDj1fQ70JELumQ=
+			Ec2kNTVjyRWEvdNTCYPO1/X9oElxruy35z40gRV4JuE=
 			</data>
 		</dict>
 		<key>Headers/SwiftOCRARPlugin.h</key>
@@ -181,14 +170,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ERkW9MWSRAFWQN9rf8khtt55N68akn8hk5l4IanVlR8=
+			6mMkw1jNKFMplTzMjcAv/DlOcEhOQTBGvkucJHLP+bc=
 			</data>
 		</dict>
 		<key>Headers/SwiftOCRLanguages.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			heJRGi6sex3VlP+POYUGt9GpKbIdGkvEuBrzgG8aqGc=
+			IH0CD3DI88Ck/0Y6/lwoc0mfDaNEzNS4w9jyfGa+ySM=
 			</data>
 		</dict>
 		<key>Headers/SwiftOCRResult.h</key>

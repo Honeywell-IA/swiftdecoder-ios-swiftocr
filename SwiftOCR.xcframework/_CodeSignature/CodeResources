@@ -4,21 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		Rxqoa0bnKX+xT7g6Osa550GLoUE=
-		</data>
-		<key>ios-arm64/.DS_Store</key>
-		<data>
-		4vPpaDcvTOfQCX73Q94whuAOvYo=
-		</data>
-		<key>ios-arm64/SwiftOCR.framework/.DS_Store</key>
-		<data>
-		AzBZTBH68lvUuDjNo1izXLjaHVQ=
-		</data>
 		<key>ios-arm64/SwiftOCR.framework/FBLPromises_Privacy.bundle/Info.plist</key>
 		<data>
-		mw38HNF43VmQoH5O/FRHijzAUj4=
+		0MDMHSR9geLmw4Hi69h1JeCrbpo=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -26,7 +14,7 @@
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
 		<data>
-		MVKTc4ap3gCG354IBUdtIU4YMHc=
+		DCH1kUQhHf0u//v2AhpSSAYA3R0=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -34,7 +22,7 @@
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<data>
-		vLs+QYDIavCgEFkKvhwphJkBowI=
+		HnXTaO8SuvCTxfNGGL5MTLurS/c=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -42,7 +30,7 @@
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/GoogleToolboxForMac_Logger_Privacy.bundle/Info.plist</key>
 		<data>
-		kjJb4xPt86HcQlxdNVyVlYTkh6A=
+		MQ3sHsQDTmAltQOgsPq9XMdyklo=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/GoogleToolboxForMac_Logger_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -50,7 +38,7 @@
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/GoogleToolboxForMac_Privacy.bundle/Info.plist</key>
 		<data>
-		K4ZUKLaGXHQIaVDVLXLs2KsP/Ps=
+		D/qZYWja0g3GoUgFNrKoHkXP/PU=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/GoogleToolboxForMac_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -58,7 +46,7 @@
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/GoogleUtilities_Privacy.bundle/Info.plist</key>
 		<data>
-		sJK2nDMZDPg8wN+Yaz4PwN4DI0A=
+		U5ocqveYSfHWLO4ngsQ/v414U3g=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -66,15 +54,11 @@
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/Headers/APIVersion.h</key>
 		<data>
-		0dbLMnOR8Yq2DCqpi/qtBLiVQvo=
+		UXZhQTF5A45hGN1CgA1mzshQORg=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/Headers/ARFrameForAdvPlugin.h</key>
 		<data>
 		XDLD2GtmPqTM/Ml93rORuwOJCXQ=
-		</data>
-		<key>ios-arm64/SwiftOCR.framework/Headers/BarcodeOCRTemplateManager.h</key>
-		<data>
-		2FX25sbUiCSDM3SQMm9UPb1CyvE=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/Headers/LoadedSymbol.h</key>
 		<data>
@@ -90,11 +74,11 @@
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/Headers/MultipleROIOCRTemplate.h</key>
 		<data>
-		rNaMLTSRgoBW3Bj8rig1+kVc2Vo=
+		Xyvo6jCytjl8Kb09yfoXfSDKg2E=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/Headers/SwiftOCR.h</key>
 		<data>
-		zCLTMSy35zUnlDHT33/HmXT0i/w=
+		nFjKBwVX2WlIYuShiCw3U1AnKEw=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/Headers/SwiftOCRARPlugin.h</key>
 		<data>
@@ -106,11 +90,11 @@
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/Headers/SwiftOCRDecoder.h</key>
 		<data>
-		40MWfBNa2brY88ReGIYcb3U+JsQ=
+		ofUxceYwRQoNMbm+0y6Vrfioo8Q=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/Headers/SwiftOCRLanguages.h</key>
 		<data>
-		vch5TlN0/YpCc4b65BXgmlM+yEw=
+		88KmTBWqnkVBNt1A0JoOy0PyQ2U=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/Headers/SwiftOCRResult.h</key>
 		<data>
@@ -150,11 +134,11 @@
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/Info.plist</key>
 		<data>
-		Rq1WJIPrNTpUrKVoVHOMOV1xUrE=
+		qq7ddU2kE4JPMqDr1u5IUIKpg4I=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		1OdIJkH4VcllB/3+e+dn62kD8M4=
+		vToSo17ttGfjhHkjdfk2uurGj1M=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -198,15 +182,15 @@
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/SwiftOCR</key>
 		<data>
-		18Kxa2MOaoBID3rZQPQKqYe64gw=
+		wuvdN/hJut/By2ASa9Jq6q3lYIQ=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/_CodeSignature/CodeResources</key>
 		<data>
-		GutIGfPijYKPIGXBtS2ECcFR8IM=
+		94F/FJKzs3/G89i3N2RDadcki9k=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/nanopb_Privacy.bundle/Info.plist</key>
 		<data>
-		v/niAsvdZ7A0GGoTkKh5XuzpCkQ=
+		PTRKVBcp8ZU2jOQqA78VI5DETA0=
 		</data>
 		<key>ios-arm64/SwiftOCR.framework/nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -218,15 +202,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/APIVersion.h</key>
 		<data>
-		0dbLMnOR8Yq2DCqpi/qtBLiVQvo=
+		UXZhQTF5A45hGN1CgA1mzshQORg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/ARFrameForAdvPlugin.h</key>
 		<data>
 		XDLD2GtmPqTM/Ml93rORuwOJCXQ=
-		</data>
-		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/BarcodeOCRTemplateManager.h</key>
-		<data>
-		2FX25sbUiCSDM3SQMm9UPb1CyvE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/LoadedSymbol.h</key>
 		<data>
@@ -242,11 +222,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/MultipleROIOCRTemplate.h</key>
 		<data>
-		rNaMLTSRgoBW3Bj8rig1+kVc2Vo=
+		Xyvo6jCytjl8Kb09yfoXfSDKg2E=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/SwiftOCR.h</key>
 		<data>
-		zCLTMSy35zUnlDHT33/HmXT0i/w=
+		nFjKBwVX2WlIYuShiCw3U1AnKEw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/SwiftOCRARPlugin.h</key>
 		<data>
@@ -258,11 +238,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/SwiftOCRDecoder.h</key>
 		<data>
-		40MWfBNa2brY88ReGIYcb3U+JsQ=
+		ofUxceYwRQoNMbm+0y6Vrfioo8Q=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/SwiftOCRLanguages.h</key>
 		<data>
-		vch5TlN0/YpCc4b65BXgmlM+yEw=
+		88KmTBWqnkVBNt1A0JoOy0PyQ2U=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/SwiftOCRResult.h</key>
 		<data>
@@ -302,7 +282,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Info.plist</key>
 		<data>
-		sPRaLqd0gNjPO5qzfI4CuUckeJw=
+		mLV2kX7SQ+DWQcqCHHDJe9uC88g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Modules/module.modulemap</key>
 		<data>
@@ -314,11 +294,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/SwiftOCR</key>
 		<data>
-		ByACEFurgt+ZLhG7kgEZQ2Wv/Pk=
+		ep59XYxI8szwqk2mBtFnH0YzC4A=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/_CodeSignature/CodeResources</key>
 		<data>
-		rKVyqmB/EZ/AaXpE+B72yRAS2CY=
+		wD2PcvbYNx0Fb+Sso16KQdKeQIs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/right-arrow.png</key>
 		<data>
@@ -331,11 +311,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mw38HNF43VmQoH5O/FRHijzAUj4=
+			0MDMHSR9geLmw4Hi69h1JeCrbpo=
 			</data>
 			<key>hash2</key>
 			<data>
-			pcFpWtgiaQyeoXGYXlPLaMv8k67nD0DsvM46V5J/zTU=
+			Q+BbI3lCJVaOxpExFPDayPFxV5Um9s8nX+HZQ0Zn1y8=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -353,11 +333,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MVKTc4ap3gCG354IBUdtIU4YMHc=
+			DCH1kUQhHf0u//v2AhpSSAYA3R0=
 			</data>
 			<key>hash2</key>
 			<data>
-			cX7C4hiYjgntvN44+qAPrLdPDb22KoXagdJX0UsQfCk=
+			933IkpC5Rn02cPH6u1pyCuVZV5QSYjSP3RwaxuRWuMw=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -375,11 +355,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vLs+QYDIavCgEFkKvhwphJkBowI=
+			HnXTaO8SuvCTxfNGGL5MTLurS/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			RAX9lzY9pyTyP+LVzV9gOiegX/bztupffSHDWwsApkM=
+			tVmj8zXo7QhICLA6OZXfrELSPTFCCDO2leonXUxhfsU=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -397,11 +377,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kjJb4xPt86HcQlxdNVyVlYTkh6A=
+			MQ3sHsQDTmAltQOgsPq9XMdyklo=
 			</data>
 			<key>hash2</key>
 			<data>
-			UrPak0PL07nl0eCaxgzpHFzO2K79aT3k7SICbTbPIX8=
+			dzO3Ikia8J+PIRMyPe7ruv/EKoR2ecE8ZUI4NgYWsD8=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/GoogleToolboxForMac_Logger_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -419,11 +399,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K4ZUKLaGXHQIaVDVLXLs2KsP/Ps=
+			D/qZYWja0g3GoUgFNrKoHkXP/PU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ScZZnIHMsgHYjDxnD6sqYvoIMzmsCGYyPFQFEcgha5U=
+			wNQnEwBuPkNy8/Rw0wFNttqHm+cJG5YnJbtrLW9ZU7w=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/GoogleToolboxForMac_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -441,11 +421,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sJK2nDMZDPg8wN+Yaz4PwN4DI0A=
+			U5ocqveYSfHWLO4ngsQ/v414U3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			cH8pPzALQDPUlgw5xG6IAPbennxF3wyYA/KABXTy1Q4=
+			2qnIWLeXZajm4a3o5gliSTHJ/PxMN7zmfjlLpvQtv4s=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -463,11 +443,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0dbLMnOR8Yq2DCqpi/qtBLiVQvo=
+			UXZhQTF5A45hGN1CgA1mzshQORg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZWlIarvp4yF0B92wMeBKPaNCygyBwpoxQa0pzp/EKeE=
+			Z3V7RADoqSHj+QHnBBhi9jQTXETzf79kWhSypw1VrlI=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/Headers/ARFrameForAdvPlugin.h</key>
@@ -479,17 +459,6 @@
 			<key>hash2</key>
 			<data>
 			n+JnTPTLtH+NgrLAGAw5aooisEopdsF2ZLvYZOdBSss=
-			</data>
-		</dict>
-		<key>ios-arm64/SwiftOCR.framework/Headers/BarcodeOCRTemplateManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2FX25sbUiCSDM3SQMm9UPb1CyvE=
-			</data>
-			<key>hash2</key>
-			<data>
-			DcAOcfuQXn2gzJjfyPWDBF8/ylD5hO9GvfV+es3FMak=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/Headers/LoadedSymbol.h</key>
@@ -529,22 +498,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rNaMLTSRgoBW3Bj8rig1+kVc2Vo=
+			Xyvo6jCytjl8Kb09yfoXfSDKg2E=
 			</data>
 			<key>hash2</key>
 			<data>
-			JMm5OKDIjsBhyw291ijKMNa+IloxwyObfkCSR7Oy1IM=
+			0hwU2OINu8MaHwMecLtXwH2CLED5m/h42Ac4lTdLF80=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/Headers/SwiftOCR.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zCLTMSy35zUnlDHT33/HmXT0i/w=
+			nFjKBwVX2WlIYuShiCw3U1AnKEw=
 			</data>
 			<key>hash2</key>
 			<data>
-			yCFAlHoNS9BuVulfvKrB4iV7m+ToMvDj1fQ70JELumQ=
+			Ec2kNTVjyRWEvdNTCYPO1/X9oElxruy35z40gRV4JuE=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/Headers/SwiftOCRARPlugin.h</key>
@@ -573,22 +542,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			40MWfBNa2brY88ReGIYcb3U+JsQ=
+			ofUxceYwRQoNMbm+0y6Vrfioo8Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			ERkW9MWSRAFWQN9rf8khtt55N68akn8hk5l4IanVlR8=
+			6mMkw1jNKFMplTzMjcAv/DlOcEhOQTBGvkucJHLP+bc=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/Headers/SwiftOCRLanguages.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vch5TlN0/YpCc4b65BXgmlM+yEw=
+			88KmTBWqnkVBNt1A0JoOy0PyQ2U=
 			</data>
 			<key>hash2</key>
 			<data>
-			heJRGi6sex3VlP+POYUGt9GpKbIdGkvEuBrzgG8aqGc=
+			IH0CD3DI88Ck/0Y6/lwoc0mfDaNEzNS4w9jyfGa+ySM=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/Headers/SwiftOCRResult.h</key>
@@ -694,22 +663,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Rq1WJIPrNTpUrKVoVHOMOV1xUrE=
+			qq7ddU2kE4JPMqDr1u5IUIKpg4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			VNeKR8c7FdGQECiLo0alMfsMUMJm41+5/6K0rthdZ5Y=
+			Na9CwzW5J3gna082io4MB2DH0QlE218HEFRC3s7F+3A=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/LatinOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1OdIJkH4VcllB/3+e+dn62kD8M4=
+			vToSo17ttGfjhHkjdfk2uurGj1M=
 			</data>
 			<key>hash2</key>
 			<data>
-			x3R5B0FH4PgaOo4Y/o9lgJZA2dYFoQfP2yfuNdUBz0A=
+			RS+zD/ftmER8Oi7mLybuI4FKf7nHsyoGHxyRWxGX4Vg=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -826,33 +795,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			18Kxa2MOaoBID3rZQPQKqYe64gw=
+			wuvdN/hJut/By2ASa9Jq6q3lYIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			94GRnXobMVZ+YHIHIA0Q3XYyxvCEqgZvAOYV0HXAwB0=
+			WNqrmFqPV/tentlLNVF/rzgYVYsfhURtgF1CwRkJk8M=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GutIGfPijYKPIGXBtS2ECcFR8IM=
+			94F/FJKzs3/G89i3N2RDadcki9k=
 			</data>
 			<key>hash2</key>
 			<data>
-			tzw6wXr0vI1+IBKPKHfsoeMYBuqtJlP14gKZpahSkNs=
+			L3L8VK9zG5mF5M4gYwUtKX9I1QDDzqXf0KoJOE5w05g=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/nanopb_Privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v/niAsvdZ7A0GGoTkKh5XuzpCkQ=
+			PTRKVBcp8ZU2jOQqA78VI5DETA0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ui4ZDNsJnXGPNBq65gszq7yqObW8maGytki1n6dcKeY=
+			8bcc7tbMdC365oHZgLeUyAbQ5o+5NWk4ARVkxQQ8oLo=
 			</data>
 		</dict>
 		<key>ios-arm64/SwiftOCR.framework/nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -881,11 +850,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0dbLMnOR8Yq2DCqpi/qtBLiVQvo=
+			UXZhQTF5A45hGN1CgA1mzshQORg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZWlIarvp4yF0B92wMeBKPaNCygyBwpoxQa0pzp/EKeE=
+			Z3V7RADoqSHj+QHnBBhi9jQTXETzf79kWhSypw1VrlI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/ARFrameForAdvPlugin.h</key>
@@ -897,17 +866,6 @@
 			<key>hash2</key>
 			<data>
 			n+JnTPTLtH+NgrLAGAw5aooisEopdsF2ZLvYZOdBSss=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/BarcodeOCRTemplateManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2FX25sbUiCSDM3SQMm9UPb1CyvE=
-			</data>
-			<key>hash2</key>
-			<data>
-			DcAOcfuQXn2gzJjfyPWDBF8/ylD5hO9GvfV+es3FMak=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/LoadedSymbol.h</key>
@@ -947,22 +905,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rNaMLTSRgoBW3Bj8rig1+kVc2Vo=
+			Xyvo6jCytjl8Kb09yfoXfSDKg2E=
 			</data>
 			<key>hash2</key>
 			<data>
-			JMm5OKDIjsBhyw291ijKMNa+IloxwyObfkCSR7Oy1IM=
+			0hwU2OINu8MaHwMecLtXwH2CLED5m/h42Ac4lTdLF80=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/SwiftOCR.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zCLTMSy35zUnlDHT33/HmXT0i/w=
+			nFjKBwVX2WlIYuShiCw3U1AnKEw=
 			</data>
 			<key>hash2</key>
 			<data>
-			yCFAlHoNS9BuVulfvKrB4iV7m+ToMvDj1fQ70JELumQ=
+			Ec2kNTVjyRWEvdNTCYPO1/X9oElxruy35z40gRV4JuE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/SwiftOCRARPlugin.h</key>
@@ -991,22 +949,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			40MWfBNa2brY88ReGIYcb3U+JsQ=
+			ofUxceYwRQoNMbm+0y6Vrfioo8Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			ERkW9MWSRAFWQN9rf8khtt55N68akn8hk5l4IanVlR8=
+			6mMkw1jNKFMplTzMjcAv/DlOcEhOQTBGvkucJHLP+bc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/SwiftOCRLanguages.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vch5TlN0/YpCc4b65BXgmlM+yEw=
+			88KmTBWqnkVBNt1A0JoOy0PyQ2U=
 			</data>
 			<key>hash2</key>
 			<data>
-			heJRGi6sex3VlP+POYUGt9GpKbIdGkvEuBrzgG8aqGc=
+			IH0CD3DI88Ck/0Y6/lwoc0mfDaNEzNS4w9jyfGa+ySM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Headers/SwiftOCRResult.h</key>
@@ -1112,11 +1070,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sPRaLqd0gNjPO5qzfI4CuUckeJw=
+			mLV2kX7SQ+DWQcqCHHDJe9uC88g=
 			</data>
 			<key>hash2</key>
 			<data>
-			EgTqI8XEvL0lemkIJASdHO9U47f14xueK9s6k39Utug=
+			TjF8H8EWmSYsjkqJoqg0RKhrpXKreZyu23jIfA1LmDk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/Modules/module.modulemap</key>
@@ -1145,22 +1103,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ByACEFurgt+ZLhG7kgEZQ2Wv/Pk=
+			ep59XYxI8szwqk2mBtFnH0YzC4A=
 			</data>
 			<key>hash2</key>
 			<data>
-			WGMbfq5GlhFASgJoaVT2OaNI25skFHcBh+ht1OhZnik=
+			pGqiQyTQrwk5ZvK5Ra8moVN5lzIyqkMA6IboCyXsBdM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rKVyqmB/EZ/AaXpE+B72yRAS2CY=
+			wD2PcvbYNx0Fb+Sso16KQdKeQIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			gmq5pdTuFdAU/3F4W34c9AFD3TBfbzWGV6ZVVVaOI5g=
+			S7WAq9tNs6kqkTjTirI8FG8nrKl8HovDfX2gpjYrQf8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SwiftOCR.framework/right-arrow.png</key>

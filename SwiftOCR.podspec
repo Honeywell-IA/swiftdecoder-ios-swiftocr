@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
   spec.name               = "SwiftOCR"
-  spec.version            = "6.2.3"
-  spec.platform = :ios, '13.0'
-  spec.ios.deployment_target = '13.0'
+  spec.version            = "6.5.0"
+  spec.platform = :ios, '15.0'
+  spec.ios.deployment_target = '15.0'
   spec.summary            = "SwiftOCR"
   spec.description        = "Honeywell OCR Scanning SDK"
   spec.homepage           = "https://www.honeywell.com/us/en"
@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "Honeywell" => "SwiftDecoder-Team" }
   spec.source            = { 
 	:git => "https://github.com/Honeywell-IA/swiftdecoder-ios-swiftocr.git",
-      	:tag => "6.2.3" 
+      	:tag => "6.5.0" 
 }
 spec.vendored_frameworks = 'SwiftOCR.xcframework'
 end

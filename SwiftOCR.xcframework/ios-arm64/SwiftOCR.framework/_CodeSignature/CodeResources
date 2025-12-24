@@ -4,13 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		9WsdFQWlP/gwlFuEmKWuzIi2iF0=
-		</data>
 		<key>FBLPromises_Privacy.bundle/Info.plist</key>
 		<data>
-		mw38HNF43VmQoH5O/FRHijzAUj4=
+		0MDMHSR9geLmw4Hi69h1JeCrbpo=
 		</data>
 		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -18,7 +14,7 @@
 		</data>
 		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
 		<data>
-		MVKTc4ap3gCG354IBUdtIU4YMHc=
+		DCH1kUQhHf0u//v2AhpSSAYA3R0=
 		</data>
 		<key>GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -26,7 +22,7 @@
 		</data>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<data>
-		vLs+QYDIavCgEFkKvhwphJkBowI=
+		HnXTaO8SuvCTxfNGGL5MTLurS/c=
 		</data>
 		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -34,7 +30,7 @@
 		</data>
 		<key>GoogleToolboxForMac_Logger_Privacy.bundle/Info.plist</key>
 		<data>
-		kjJb4xPt86HcQlxdNVyVlYTkh6A=
+		MQ3sHsQDTmAltQOgsPq9XMdyklo=
 		</data>
 		<key>GoogleToolboxForMac_Logger_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -42,7 +38,7 @@
 		</data>
 		<key>GoogleToolboxForMac_Privacy.bundle/Info.plist</key>
 		<data>
-		K4ZUKLaGXHQIaVDVLXLs2KsP/Ps=
+		D/qZYWja0g3GoUgFNrKoHkXP/PU=
 		</data>
 		<key>GoogleToolboxForMac_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -50,7 +46,7 @@
 		</data>
 		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
 		<data>
-		sJK2nDMZDPg8wN+Yaz4PwN4DI0A=
+		U5ocqveYSfHWLO4ngsQ/v414U3g=
 		</data>
 		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -58,15 +54,11 @@
 		</data>
 		<key>Headers/APIVersion.h</key>
 		<data>
-		0dbLMnOR8Yq2DCqpi/qtBLiVQvo=
+		UXZhQTF5A45hGN1CgA1mzshQORg=
 		</data>
 		<key>Headers/ARFrameForAdvPlugin.h</key>
 		<data>
 		XDLD2GtmPqTM/Ml93rORuwOJCXQ=
-		</data>
-		<key>Headers/BarcodeOCRTemplateManager.h</key>
-		<data>
-		2FX25sbUiCSDM3SQMm9UPb1CyvE=
 		</data>
 		<key>Headers/LoadedSymbol.h</key>
 		<data>
@@ -82,11 +74,11 @@
 		</data>
 		<key>Headers/MultipleROIOCRTemplate.h</key>
 		<data>
-		rNaMLTSRgoBW3Bj8rig1+kVc2Vo=
+		Xyvo6jCytjl8Kb09yfoXfSDKg2E=
 		</data>
 		<key>Headers/SwiftOCR.h</key>
 		<data>
-		zCLTMSy35zUnlDHT33/HmXT0i/w=
+		nFjKBwVX2WlIYuShiCw3U1AnKEw=
 		</data>
 		<key>Headers/SwiftOCRARPlugin.h</key>
 		<data>
@@ -98,11 +90,11 @@
 		</data>
 		<key>Headers/SwiftOCRDecoder.h</key>
 		<data>
-		40MWfBNa2brY88ReGIYcb3U+JsQ=
+		ofUxceYwRQoNMbm+0y6Vrfioo8Q=
 		</data>
 		<key>Headers/SwiftOCRLanguages.h</key>
 		<data>
-		vch5TlN0/YpCc4b65BXgmlM+yEw=
+		88KmTBWqnkVBNt1A0JoOy0PyQ2U=
 		</data>
 		<key>Headers/SwiftOCRResult.h</key>
 		<data>
@@ -142,11 +134,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Rq1WJIPrNTpUrKVoVHOMOV1xUrE=
+		qq7ddU2kE4JPMqDr1u5IUIKpg4I=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		1OdIJkH4VcllB/3+e+dn62kD8M4=
+		vToSo17ttGfjhHkjdfk2uurGj1M=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -190,7 +182,7 @@
 		</data>
 		<key>nanopb_Privacy.bundle/Info.plist</key>
 		<data>
-		v/niAsvdZ7A0GGoTkKh5XuzpCkQ=
+		PTRKVBcp8ZU2jOQqA78VI5DETA0=
 		</data>
 		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -207,7 +199,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pcFpWtgiaQyeoXGYXlPLaMv8k67nD0DsvM46V5J/zTU=
+			Q+BbI3lCJVaOxpExFPDayPFxV5Um9s8nX+HZQ0Zn1y8=
 			</data>
 		</dict>
 		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -221,7 +213,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cX7C4hiYjgntvN44+qAPrLdPDb22KoXagdJX0UsQfCk=
+			933IkpC5Rn02cPH6u1pyCuVZV5QSYjSP3RwaxuRWuMw=
 			</data>
 		</dict>
 		<key>GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -235,7 +227,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RAX9lzY9pyTyP+LVzV9gOiegX/bztupffSHDWwsApkM=
+			tVmj8zXo7QhICLA6OZXfrELSPTFCCDO2leonXUxhfsU=
 			</data>
 		</dict>
 		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -249,7 +241,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UrPak0PL07nl0eCaxgzpHFzO2K79aT3k7SICbTbPIX8=
+			dzO3Ikia8J+PIRMyPe7ruv/EKoR2ecE8ZUI4NgYWsD8=
 			</data>
 		</dict>
 		<key>GoogleToolboxForMac_Logger_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -263,7 +255,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ScZZnIHMsgHYjDxnD6sqYvoIMzmsCGYyPFQFEcgha5U=
+			wNQnEwBuPkNy8/Rw0wFNttqHm+cJG5YnJbtrLW9ZU7w=
 			</data>
 		</dict>
 		<key>GoogleToolboxForMac_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -277,7 +269,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cH8pPzALQDPUlgw5xG6IAPbennxF3wyYA/KABXTy1Q4=
+			2qnIWLeXZajm4a3o5gliSTHJ/PxMN7zmfjlLpvQtv4s=
 			</data>
 		</dict>
 		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -291,7 +283,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZWlIarvp4yF0B92wMeBKPaNCygyBwpoxQa0pzp/EKeE=
+			Z3V7RADoqSHj+QHnBBhi9jQTXETzf79kWhSypw1VrlI=
 			</data>
 		</dict>
 		<key>Headers/ARFrameForAdvPlugin.h</key>
@@ -299,13 +291,6 @@
 			<key>hash2</key>
 			<data>
 			n+JnTPTLtH+NgrLAGAw5aooisEopdsF2ZLvYZOdBSss=
-			</data>
-		</dict>
-		<key>Headers/BarcodeOCRTemplateManager.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DcAOcfuQXn2gzJjfyPWDBF8/ylD5hO9GvfV+es3FMak=
 			</data>
 		</dict>
 		<key>Headers/LoadedSymbol.h</key>
@@ -333,14 +318,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JMm5OKDIjsBhyw291ijKMNa+IloxwyObfkCSR7Oy1IM=
+			0hwU2OINu8MaHwMecLtXwH2CLED5m/h42Ac4lTdLF80=
 			</data>
 		</dict>
 		<key>Headers/SwiftOCR.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yCFAlHoNS9BuVulfvKrB4iV7m+ToMvDj1fQ70JELumQ=
+			Ec2kNTVjyRWEvdNTCYPO1/X9oElxruy35z40gRV4JuE=
 			</data>
 		</dict>
 		<key>Headers/SwiftOCRARPlugin.h</key>
@@ -361,14 +346,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ERkW9MWSRAFWQN9rf8khtt55N68akn8hk5l4IanVlR8=
+			6mMkw1jNKFMplTzMjcAv/DlOcEhOQTBGvkucJHLP+bc=
 			</data>
 		</dict>
 		<key>Headers/SwiftOCRLanguages.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			heJRGi6sex3VlP+POYUGt9GpKbIdGkvEuBrzgG8aqGc=
+			IH0CD3DI88Ck/0Y6/lwoc0mfDaNEzNS4w9jyfGa+ySM=
 			</data>
 		</dict>
 		<key>Headers/SwiftOCRResult.h</key>
@@ -438,7 +423,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x3R5B0FH4PgaOo4Y/o9lgJZA2dYFoQfP2yfuNdUBz0A=
+			RS+zD/ftmER8Oi7mLybuI4FKf7nHsyoGHxyRWxGX4Vg=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -515,7 +500,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ui4ZDNsJnXGPNBq65gszq7yqObW8maGytki1n6dcKeY=
+			8bcc7tbMdC365oHZgLeUyAbQ5o+5NWk4ARVkxQQ8oLo=
 			</data>
 		</dict>
 		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>

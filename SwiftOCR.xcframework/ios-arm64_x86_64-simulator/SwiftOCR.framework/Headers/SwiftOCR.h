@@ -27,4 +27,3 @@ FOUNDATION_EXPORT const unsigned char SwiftOCRVersionString[];
 #import <SwiftOCR/SwiftOCRTemplateARBasePlugin.h>
 #import <SwiftOCR/TargetedSingleROIConfig.h>
 #import <SwiftOCR/SwiftOCRLanguages.h>
-#import <SwiftOCR/BarcodeOCRTemplateManager.h>

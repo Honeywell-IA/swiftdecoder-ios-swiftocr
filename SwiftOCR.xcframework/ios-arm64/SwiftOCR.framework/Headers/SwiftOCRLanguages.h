@@ -2,7 +2,6 @@
 //  SwiftOCRLanguages.h
 //  SwiftOCR
 //
-//  Created by Jenith Raja A, Mohamed on 23/09/24.
 //
 
 /**

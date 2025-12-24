@@ -39,8 +39,6 @@ typedef enum{
 @interface SwiftOCRDecoder : NSObject
 @property (retain, nonatomic) MultipleROIOCRManager * multiROIOCRManager;
 
-+ (SwiftOCRDecoder*) getInstanceUsing:(SwiftOCRScanArea) swiftOCRScanArea Delegate:(id<SwiftOCRResultListener>)delegate;
-
 /**
  * @brief Gets the singleton instance of TemplateOCRDecoder.
  *
@@ -83,7 +81,7 @@ typedef enum{
  * @return
  *  TemplateOCRStatus
  */
-- (SwiftOCRStatus) enableSwiftOCRTemplateFeature:(BOOL) status;
+- (SwiftOCRStatus) enableSwiftOCRFeature:(BOOL) status;
 
 /**
  * @brief Removes already added template ID using @addOCRTemplateID
@@ -219,36 +217,7 @@ typedef enum{
  * @param enable - boolean value
  *
  */
--(void)enableFineTuning:(BOOL) enable;
-
-/**
- * @brief Set camera frame to count multi ROI OCR manager and CountMultipleTemplateOCRHolder instance
- *
- * @param cameraFrame - camera frame
- *
- * @param cmtOCRHolder - CountMultipleTemplateOCRHolder instance
- *
- */
--(void)createMultipleROIManagerWith:(CGRect) cameraFrame CMTOCRHolder:(MultipleROICountTemplateOCRHolder *) cmtOCRHolder;
-
-/**
- * @brief Add and remove single and multiple ROI plugins
- */
-
--(int)setMultipleOCRActiveTemplateID:(int)templateID;
-
-/**
-* @brief Before scanning template for Barcode and Multiple OCR, setting for which type we are going to add template
-*
-* @param isBarcode : isBarcode is YES if adding template for Barcode and isBarcode is NO if adding template for Multiple ROI
-*/
--(void)setScanTypeForTemplate:(BOOL)isBarcode;
-
-/**
-* @brief If wiftOCRScanArea == TARGETED_MULTIPLE_ROI then remove singleROIOCRTemplate and add multipleROIOCRTemplate plugin and if swiftOCRScanArea ==
-* TARGETED_SINGLE_ROI then remove multipleROIOCRTemplate and add singleROIOCRTemplate plugin
-*/
--(void) addAndRemovePlugin;
+-(void)enableROIFineTuningMode:(BOOL) enable;
 
 /**
  * @brief set the default language for scanning OCR

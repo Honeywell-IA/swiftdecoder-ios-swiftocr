@@ -35,7 +35,7 @@ NS_ASSUME_NONNULL_BEGIN
  * @param enable - boolean
  *
  */
-- (void) enableFineTuning:(BOOL) enable;
+-(void)enableROIFineTuningMode:(BOOL) enable;
 -(void)setTouchResizingEnable:(BOOL)enable;
 
 @end
